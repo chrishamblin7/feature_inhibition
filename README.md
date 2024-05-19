@@ -11,6 +11,7 @@ Create a [virtual environment](https://realpython.com/python-virtual-environment
 * `source env/bin/activate`
 
 Install dependencies: `pip install -r requirements.txt`
+
 Add some local packages as modules: `pip install -e .`
 
 Make the virtual environment available to jupyter notebooks:  `python -m ipykernel install --user --name=inhibition` 
