@@ -19,7 +19,7 @@ Make the virtual environment available to jupyter notebooks:  `python -m ipykern
 
 
 ### Demos
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/your_notebook_file_id)
-https://colab.research.google.com/github/chrishamblin7/feature_inhibition/blob/main/feature_inhibition_demos.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chrishamblin7/feature_inhibition/blob/main/feature_inhibition_demos.ipynb)
 
 
