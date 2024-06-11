@@ -1,6 +1,6 @@
 ### Overview
 
-This is the official repository for the paper ['Understanding Feature Inhibition Through Maximally Tense Images']([https://chrishamblin.xyz/science/tense_images.pdf](https://chrishamblin.xyz/writing/inhibition_icml2024_authored.pdf))
+This is the official repository for the paper ['Understanding Feature Inhibition Through Maximally Tense Images'](https://arxiv.org/abs/2406.05598)
 
 Below are some setup instructions, and demos for running experiments 
 
